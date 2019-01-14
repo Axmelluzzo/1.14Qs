@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=i1fg8jkjq2s
+
+
+To get YUM/Repos working
+1) Set it up to a subscription.
+	a) login as root
+	b) # subscription-manager register
+		b.1) enter RHEL Website Username Password
+	c) #subscription-manager attach
+  
+  yum repolist only lists rhel7 REPO
+  
+  nmap installs? but httpd doesnt?
+  
+  neither will vsftpd
+  
+  
